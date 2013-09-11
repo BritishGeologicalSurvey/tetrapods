@@ -33,6 +33,10 @@ html, body, div, span, applet, object, iframe, h1, h2, h3, h4, h5, h6, p, blockq
 }
 
 boxhead {
+  font-weight:700; color:#000066; font-size:1.25em; 
+}
+
+boxhead_es {
   font-weight:700; color:#000066; font-size:1.5em; 
 }
 
