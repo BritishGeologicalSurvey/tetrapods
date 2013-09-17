@@ -310,6 +310,7 @@ th, td {
 	border-bottom: 1px solid #ddd;
 	border-right: 1px solid #ccc;
 }
+#searchPage table, #searchPage th, #searchPage td {border:none; margin:0;padding:0;}
 /* =Lists
 -------------------------------------------------------------- */
 ul li {
