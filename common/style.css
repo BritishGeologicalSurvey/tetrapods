@@ -27,23 +27,23 @@ html, body, div, span, applet, object, iframe, h1, h2, h3, h4, h5, h6, p, blockq
 	font: inherit;
 	vertical-align: baseline;
 }
-
 .boxed {
-  border:5px solid red; padding:5px;
+	border: 5px solid red;
+	padding: 5px;
 }
-
 boxhead {
-  font-weight:700; color:#000066; font-size:1.25em; 
+	font-weight: 700;
+	color: #000066;
+	font-size: 1.25em;
 }
-
 boxhead_es {
-  font-weight:700; color:#000066; font-size:1.5em; 
+	font-weight: 700;
+	color: #000066;
+	font-size: 1.5em;
 }
-
 boxtext {
-  color:#000066;
+	color: #000066;
 }
-
 /* HTML5 display-role reset for older browsers */
 article, aside, details, figcaption, figure, footer, header, hgroup, menu, nav, section {
 	display: block;
@@ -310,7 +310,11 @@ th, td {
 	border-bottom: 1px solid #ddd;
 	border-right: 1px solid #ccc;
 }
-#searchPage table, #searchPage th, #searchPage td {border:none; margin:0;padding:0;}
+#searchPage table, #searchPage th, #searchPage td {
+	border: none;
+	margin: 0;
+	padding: 0;
+}
 /* =Lists
 -------------------------------------------------------------- */
 ul li {
@@ -1286,5 +1290,13 @@ ul, ol, dl {
 	page-break-before: avoid;
 }
 }
-
-/*"The last 29 days of the month are the hardest."- Nikola Tesla*/
+/*Gallery overrrides*/
+#gallery.ad-gallery {
+	height: 60em;
+}
+#gallery.ad-gallery .ad-image-wrapper {
+	height: 50em;
+}
+#gallery.ad-gallery .ad-image-wrapper .ad-image .ad-image-description .ad-description-title {
+	display: none;
+}
