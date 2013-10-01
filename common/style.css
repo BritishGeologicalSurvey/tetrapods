@@ -1294,9 +1294,12 @@ ul, ol, dl {
 #gallery.ad-gallery {
 	height: 60em;
 }
+#gallery.ad-gallery .ad-thumbs {margin-bottom:0.5em;}
 #gallery.ad-gallery .ad-image-wrapper {
 	height: 50em;
 }
 #gallery.ad-gallery .ad-image-wrapper .ad-image .ad-image-description .ad-description-title {
 	display: none;
 }
+#gallery.ad-gallery .ad-forward, #gallery.ad-gallery .ad-back
+{top:3em;}
