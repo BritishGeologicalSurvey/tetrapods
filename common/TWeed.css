@@ -1,0 +1,33 @@
+h1 {
+  width:70%; 
+  text-align:center; 
+  clear:none;
+}
+
+h2 {
+  text-align:center;
+}
+
+h3 {
+  text-align:center;
+}
+
+.boxed {
+	border: 1px solid red;
+	padding: 5px;
+	background-color: #eeeeff;
+}
+boxhead {
+	font-weight: 700;
+	color: #000066;
+	font-size: 1.5em;
+}
+boxhead_es {
+	font-weight: 700;
+	color: #000066;
+	font-size: 1.25em;
+}
+boxtext {
+	color: #000066;
+}
+

@@ -27,23 +27,6 @@ html, body, div, span, applet, object, iframe, h1, h2, h3, h4, h5, h6, p, blockq
 	font: inherit;
 	vertical-align: baseline;
 }
-.boxed {
-	border: 5px solid red;
-	padding: 5px;
-}
-boxhead {
-	font-weight: 700;
-	color: #000066;
-	font-size: 1.5em;
-}
-boxhead_es {
-	font-weight: 700;
-	color: #000066;
-	font-size: 1.25em;
-}
-boxtext {
-	color: #000066;
-}
 /* HTML5 display-role reset for older browsers */
 article, aside, details, figcaption, figure, footer, header, hgroup, menu, nav, section {
 	display: block;
