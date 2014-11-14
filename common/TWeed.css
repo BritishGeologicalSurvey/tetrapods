@@ -1,17 +1,14 @@
 h1 {
-  width:70%; 
-  text-align:center; 
-  clear:none;
+	width: 70%;
+	text-align: center;
+	clear: none;
 }
-
 h2 {
-  text-align:center;
+	text-align: center;
 }
-
 h3 {
-  text-align:center;
+	text-align: center;
 }
-
 .boxed {
 	border: 1px solid red;
 	padding: 5px;
@@ -30,4 +27,17 @@ boxhead_es {
 boxtext {
 	color: #000066;
 }
-
+a.lightbox {
+	position: relative;
+	float: left;
+	width: 100%;
+}
+a.lightbox span {
+	background: url("http://resources.bgs.ac.uk/images/zoom-in.png") no-repeat left top transparent;
+	height: 1.7em;
+	width: 1.7em;
+	z-index: 10;
+	position: absolute;
+	right: 0.5em;
+	top: 0.5em;
+}
