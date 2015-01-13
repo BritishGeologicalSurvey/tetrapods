@@ -43,9 +43,9 @@ a.lightbox span {
 }
 td.col_20 {
 	width: 20%;
-	border: 0px;
+	border: none;
 }
 td.col_60 {
 	width: 60%;
-	border: 0px;
+	border: none;
 }
