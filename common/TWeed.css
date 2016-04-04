@@ -9,6 +9,10 @@ h2 {
 h3 {
 	text-align: center;
 }
+h6 {
+	font-style: italic;
+	text-align: center;
+}
 .boxed {
 	border: 1px solid red;
 	padding: 5px;
