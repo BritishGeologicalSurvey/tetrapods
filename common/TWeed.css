@@ -13,6 +13,10 @@ h6 {
 	font-style: italic;
 	text-align: center;
 }
+authors {
+	font-style: italic;
+	text-align: left;
+}
 .boxed {
 	border: 1px solid red;
 	padding: 5px;
