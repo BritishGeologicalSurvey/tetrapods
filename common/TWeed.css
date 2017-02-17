@@ -13,6 +13,9 @@ h6 {
 	font-style: italic;
 	text-align: center;
 }
+summary-list {
+	width: 40%;
+}
 authors {
 	font-style: italic;
 	text-align: left;
@@ -51,6 +54,10 @@ a.lightbox span {
 }
 td.col_20 {
 	width: 20%;
+	border: none;
+}
+td.col_40 {
+	width: 40%;
 	border: none;
 }
 td.col_60 {
