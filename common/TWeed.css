@@ -20,6 +20,10 @@ authors {
 	font-style: italic;
 	text-align: left;
 }
+authors-centre {
+	font-style: italic;
+	text-align: center;
+}
 .boxed {
 	border: 1px solid red;
 	padding: 5px;
