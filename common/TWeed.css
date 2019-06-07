@@ -64,7 +64,7 @@ td.col_40 {
 	width: 40%;
 	border: none;
 }
-td.col_60 {
+td.col_60pc {
 	width: 60%;
 	border: none;
 }
@@ -72,6 +72,27 @@ td.col_60 {
 	width: 100%;
 	border: none;
 }
+.col-100pc {
+	width: 100%;
+	border: none;
+}
+.col-80pc {
+	width: 80%;
+	border: none;
+}
+.col-60pc {
+	width: 60%;
+	border: none;
+}
+.col-30pc {
+	width: 30%;
+	border: none;
+}
+.col-20pc {
+	width: 20%;
+	border: none;
+}
 .col-480 {
 	width: 51%;
 }
+
