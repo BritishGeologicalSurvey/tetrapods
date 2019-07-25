@@ -95,4 +95,13 @@ td.col_60pc {
 .col-480 {
 	width: 51%;
 }
+.wp-caption-25 img {
+  border: 0 none;
+  height: auto;
+  margin: 0;
+  max-width: 25%;  /*max-width: 98.5%;*/
+  padding: 0;
+ width: auto;
+}
+
 
